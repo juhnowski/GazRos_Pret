@@ -1,0 +1,10 @@
+{
+  "name": "GazRos_Pret",
+  "description": "Your money worksheet app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "nodemailer": "0.6.x"
+  }
+}
